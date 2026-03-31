@@ -1,7 +1,7 @@
 # ⚡ TermPipe Builder
 
 <p align="center">
-Interactive terminal tool to **visually build Unix pipelines** and generate the equivalent Bash command in real time.
+Interactive terminal tool to visually build Unix pipelines and generate the equivalent Bash command in real time.
 </p>
 
 <p align="center">
